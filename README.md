@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Neimatullah
+# 👋 Hi, I'm Neimatullah Seyar
 
 🚀 **Full-Stack Developer in Progress | Cyber Security Enthusiast**
 
